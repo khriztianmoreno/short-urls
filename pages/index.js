@@ -1,4 +1,4 @@
-import Layout from '../components/layout';
+import Layout from '../components/Layout';
 import SEO from '../components/Seo';
 import Hero from '../components/Hero';
 
