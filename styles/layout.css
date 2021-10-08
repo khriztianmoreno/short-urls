@@ -1,0 +1,19 @@
+html,
+body {
+  color: #606060;
+  font-family: 'Poppins', -apple-system, sans-serif;
+  font-size: 14px;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}

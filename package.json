@@ -1,0 +1,45 @@
+{
+  "name": "ssoon-short-urls",
+  "version": "0.1.0",
+  "private": false,
+  "description": "URL shortener with an airtable backend",
+  "author": "Cristian Moreno <khriztianmoreno@gmail.com> (http://khriztianmoreno.dev/)",
+  "keywords": [
+    "url short",
+    "next",
+    "airtable"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "airtable": "^0.11.1",
+    "bootstrap": "^5.0.0-beta3",
+    "next": "11.1.2",
+    "prop-types": "^15.7.2",
+    "react": "17.0.2",
+    "react-copy-to-clipboard": "^5.0.4",
+    "react-dom": "17.0.2",
+    "react-particles-js": "^3.5.3",
+    "tsparticles": "^1.35.2",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khriztianmoreno/ssoon-short-urls"
+  },
+  "bugs": {
+    "url": "https://github.com/khriztianmoreno/ssoon-short-urls/issues"
+  }
+}
